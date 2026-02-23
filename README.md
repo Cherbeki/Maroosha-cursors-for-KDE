@@ -5,3 +5,5 @@ Maroosha's cursors for KDE
 
 Twitch Maroosha:
 https://www.twitch.tv/maroosha
+Оригинальные курсоры:
+https://boosty.to/maroosha/posts/0fd0ec4d-3a74-4596-9d4e-2ccc0f2e9e2a?share=post_link
