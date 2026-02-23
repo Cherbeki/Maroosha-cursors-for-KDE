@@ -4,6 +4,6 @@ Maroosha's cursors for KDE
 после чего выбрав их в настройках вашей системы</p>
 
 
-#### <a href=https://www.twitch.tv/maroosha>Twitch Maroosha</a>
-#### <a href=https://boosty.to/maroosha/posts/0fd0ec4d-3a74-4596-9d4e-2ccc0f2e9e2a?share=post_link>Оригинальные курсоры</a>
+#### <a href="https://www.twitch.tv/maroosha">Twitch Maroosha</a>
+#### <a href="https://boosty.to/maroosha/posts/0fd0ec4d-3a74-4596-9d4e-2ccc0f2e9e2a?share=post_link">Оригинальные курсоры</a>
 
