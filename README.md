@@ -1,7 +1,8 @@
 # Maroosha-cursors-for-KDE
 Maroosha's cursors for KDE
-Я переделал Windous курсоры под Linux KDE которые можно установить просто разорхивировав папку с курсорами по пути /home/$user/icons/
-после чего выбрав их в настройках вашей системы
+<p>Я переделал Windous курсоры под Linux KDE которые можно установить просто разорхивировав папку с курсорами по пути /home/$user/icons/
+после чего выбрав их в настройках вашей системы</p>
+
 
 <p>Twitch Maroosha:</p>
 <p>https://www.twitch.tv/maroosha</p>
