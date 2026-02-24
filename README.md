@@ -1,6 +1,6 @@
 # Maroosha-cursors-for-KDE
 <p>Порт Windous курсоров от Maroosha на Linux KDE, которые можно установить, разорхивировав папку с курсорами по пути</p>
-<p>/home/$user/icons/ после чего выбрав их в настройках вашей системы</p>
+<p>/home/$user/icons/ после чего выбрать их в параметрах системы</p>
 
 ### Preview
 <img width="575" height="323" alt="marusa-cursors" src="https://github.com/user-attachments/assets/69379037-13a8-4e7b-9bbd-97b996b8f17a" />
