@@ -1,7 +1,6 @@
 # Maroosha cursor KDE
-<p>Порт Windous курсоров от Maroosha на Linux KDE, которые можно поставить, скачав и разорхивировав архив с курсорами по пути /home/$user/icons/ (либо <code> cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha-cursors-for-KDE.git </code>) после чего выбрать их в параметрах системы</p>
-
-<code> cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha-cursors-for-KDE.git </code>
+<p>Порт Windows курсоров от Maroosha на Linux KDE, которые можно поставить, скачав и распаковав архив с курсорами по пути /home/$USER/icons/ (либо <code> cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha-cursors-for-KDE.git </code>).</p>
+<p>После чего выберите их Параметры системы -> Цвета и оформление -> Курсоры мыши </p>
 
 ### Preview
 <img width="575" height="323" alt="marusa-cursors" src="https://github.com/user-attachments/assets/69379037-13a8-4e7b-9bbd-97b996b8f17a" />
