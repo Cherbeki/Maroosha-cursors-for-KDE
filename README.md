@@ -11,8 +11,14 @@ xrdb -merge <<< "Xcursor.theme:Maroosha"
 xrdb -merge <<< "Xcursor.size: 32"
 ```
 
+### Sway 
+```
+seat seat0 xcursor_theme Maroosha 32
+```
+
 ### KDE
 Параметры системы -> Цвета и оформление -> Курсоры мыши
+
 
 
 ### Preview
