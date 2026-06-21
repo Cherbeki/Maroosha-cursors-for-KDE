@@ -1,12 +1,17 @@
-# Maroosha cursor
-<p>Порт Windows курсоров от Maroosha на Linux, которые можно поставить, скачав и распаковав архив с курсорами по пути /home/$USER/.icons/ (либо <code> cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha-cursors-for-KDE.git </code>).</p>
-<p>Если у вас X11:</p>
-<code>xrdb -merge <<< "Xcursor.theme:Maroosha"
-xrdb -merge <<< "Xcursor.size: 32"</code>
-  
-<p>
-KDE:</p>
-<p>После чего выберите их Параметры системы -> Цвета и оформление -> Курсоры мыши</p>
+# Maroosha cursors
+<p>Порт Windows курсоров от Maroosha на Linux, которые можно поставить, скачав и распаковав архив с курсорами по пути /home/$USER/.icons/ или </p>
+```
+cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha_cursors.git
+```
+
+### Если у вас X11:
+```
+xrdb -merge <<< "Xcursor.theme:Maroosha"
+xrdb -merge <<< "Xcursor.size: 32"
+```
+
+### KDE
+Параметры системы -> Цвета и оформление -> Курсоры мыши
 
 
 ### Preview
