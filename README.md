@@ -3,7 +3,9 @@
 <p>Если у вас X11:</p>
 <code>xrdb -merge <<< "Xcursor.theme:Maroosha"
 xrdb -merge <<< "Xcursor.size: 32"</code>
-<p>KDE:
+  
+<p>
+  KDE:
 После чего выберите их Параметры системы -> Цвета и оформление -> Курсоры мыши</p>
 
 
